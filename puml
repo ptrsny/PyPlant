@@ -1,0 +1,3 @@
+#!/bin/bash
+
+PLANTUML_LIMIT_SIZE=16384 java  -jar plantuml.jar -Djava.awt.headless=true *.puml

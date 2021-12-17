@@ -1,8 +1,10 @@
 tags
 *.egg*
+*__pycache__
 
 
 # Plantuml
 *.png
 *.puml
 
+.venv*
